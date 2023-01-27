@@ -13,7 +13,7 @@ const allowedOrigins = [
   "https://tanveerbackend-production.up.railway.app",
   "http://localhost:4000",
   "https://tanveer-frontend.vercel.app",
-  "https://new-dauqu-gricery-frontend-dauqu.vercel.app/"
+  "https://new-dauqu-gricery-frontend-dauqu.vercel.app"
 ];
 
 app.use(
