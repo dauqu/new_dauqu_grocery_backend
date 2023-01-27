@@ -45,5 +45,5 @@ app.use("/api/profile", require("./routes/profile"));
 app.use("/api/users", require("./routes/users"));
 
 app.listen(PORT, () => {
-  console.log(`Server is running on port http://localhost:${PORT}`);
+  console.log(`Server is running on port http://localhost:${PORT} !!!`);
 }); //Start the server
